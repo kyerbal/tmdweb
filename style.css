@@ -150,6 +150,8 @@ html {
   border-radius: 4px;
   transition: 0.3s;
   border-bottom: 4px solid transparent;
+  text-decoration: none;
+  display: block;
 }
 .proyecto-card:hover {
   transform: translateY(-10px);
